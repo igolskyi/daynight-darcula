@@ -2,7 +2,7 @@
   "name": "vscode-day-night-theme",
   "displayName": "Daynight Darcula Theme",
   "description": "A theme variation for VS Code based on Darcula theme from Jetbrains IDEs",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "publisher": "igolskyi",
   "repository": {
     "type": "git",
