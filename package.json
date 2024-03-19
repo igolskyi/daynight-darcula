@@ -6,7 +6,7 @@
   "publisher": "igolskyi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/igolskyi"
+    "url": "https://github.com/igolskyi/daynight-darcula"
   },
   "engines": {
     "vscode": "*"
