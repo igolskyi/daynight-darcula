@@ -17,19 +17,19 @@ The Theme extension is available in [Visual Studio Marketplace](https://marketpl
 
 ### React, Next.js
 
-![React, Next.js screenshot](https://github.com/igolskyi/daynight-darcula/blob/main/screenshots/next.png)
+![React, Next.js screenshot](https://github.com/igolskyi/daynight-darcula/raw/main/screenshots/next.png)
 
 ### Angular
 
-![Angular screenshot](https://github.com/igolskyi/daynight-darcula/blob/main/screenshots/angular.png)
+![Angular screenshot](./screenshots/angular.png)
 
 ### Qwik.js
 
-![Qwik.js screenshot](https://github.com/igolskyi/daynight-darcula/blob/main/screenshots/qwik.png)
+![Qwik.js screenshot](./screenshots/qwik.png)
 
 ### Nest.js
 
-![Nest.js screenshot](https://github.com/igolskyi/daynight-darcula/blob/main/screenshots/nest.png)
+![Nest.js screenshot](https://raw.githubusercontent.com/igolskyi/daynight-darcula/main/screenshots/nest.png)
 
 
 ## Customizing
