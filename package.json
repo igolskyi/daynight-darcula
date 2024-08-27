@@ -23,6 +23,11 @@
         "path": "./themes/daynight-darcula.json"
       },
       {
+        "label": "Daynight Darcula Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/daynight-darcula-soft.json"
+      },
+      {
         "label": "Daynight Darcula New",
         "uiTheme": "vs-dark",
         "path": "./themes/daynight-darcula-new.json"
