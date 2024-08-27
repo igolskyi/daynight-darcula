@@ -18,19 +18,19 @@
   "contributes": {
     "themes": [
       {
+        "label": "Daynight Darcula Day",
+        "uiTheme": "vs-dark",
+        "path": "./themes/daynight-darcula-day.json"
+      },
+      {
+        "label": "Daynight Darcula Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/daynight-darcula-night.json"
+      },
+      {
         "label": "Daynight Darcula",
         "uiTheme": "vs-dark",
-        "path": "./themes/daynight-darcula.json"
-      },
-      {
-        "label": "Daynight Darcula Soft",
-        "uiTheme": "vs-dark",
-        "path": "./themes/daynight-darcula-soft.json"
-      },
-      {
-        "label": "Daynight Darcula New",
-        "uiTheme": "vs-dark",
-        "path": "./themes/daynight-darcula-new.json"
+        "path": "./themes/daynight-darcula-up.json"
       }
     ]
   }
