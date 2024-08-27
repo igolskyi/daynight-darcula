@@ -1,3 +1,8 @@
+## v1.5.0
+- Add Soft theme variation
+
+...
+
 ## v1.1.0
 - Update README, add screenshots
 
