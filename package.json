@@ -30,7 +30,7 @@
       {
         "label": "Daynight Darcula",
         "uiTheme": "vs-dark",
-        "path": "./themes/daynight-darcula-up.json"
+        "path": "./themes/daynight-darcula.json"
       }
     ]
   }

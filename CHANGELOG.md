@@ -1,3 +1,6 @@
+## v1.5.2
+- Fix after rename themes
+
 ## v1.5.1
 - Rename themes
 
